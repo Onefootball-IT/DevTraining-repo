@@ -1,2 +1,2 @@
 # DevTraining-repo
-IT Team Dev
+IT Team Development Training
